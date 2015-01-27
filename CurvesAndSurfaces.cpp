@@ -1,3 +1,8 @@
+/*
+Author: Rana Aygul
+Date : 24.11.2014
+**/
+
 #include <iostream>
 #include <string>
 #include <sstream>
